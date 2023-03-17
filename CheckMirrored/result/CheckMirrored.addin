@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>CheckMirrored.dll</Assembly>
+		<AddInId>D5C57CEC-7861-481A-B8D4-538C2C147C10</AddInId>
+		<FullClassName>CheckMirrored.CheckMirrored</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Поиск Зеркальных дверей/окон</Text>
+	</AddIn>
+</RevitAddIns>
